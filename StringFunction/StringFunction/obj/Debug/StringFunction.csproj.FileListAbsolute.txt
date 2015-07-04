@@ -1,0 +1,6 @@
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\StringFunction\StringFunction\bin\Debug\StringFunction.exe.config
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\StringFunction\StringFunction\bin\Debug\StringFunction.exe
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\StringFunction\StringFunction\bin\Debug\StringFunction.pdb
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\StringFunction\StringFunction\obj\Debug\StringFunction.csprojResolveAssemblyReference.cache
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\StringFunction\StringFunction\obj\Debug\StringFunction.exe
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\StringFunction\StringFunction\obj\Debug\StringFunction.pdb

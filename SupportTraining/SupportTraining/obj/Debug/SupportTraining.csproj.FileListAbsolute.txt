@@ -1,0 +1,6 @@
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\SupportTraining\SupportTraining\bin\Debug\SupportTraining.exe.config
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\SupportTraining\SupportTraining\bin\Debug\SupportTraining.exe
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\SupportTraining\SupportTraining\bin\Debug\SupportTraining.pdb
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\SupportTraining\SupportTraining\obj\Debug\SupportTraining.csprojResolveAssemblyReference.cache
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\SupportTraining\SupportTraining\obj\Debug\SupportTraining.exe
+C:\Users\Dulan Chiranthaka\Desktop\Interview Phase 2\SupportTraining\SupportTraining\obj\Debug\SupportTraining.pdb
